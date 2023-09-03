@@ -1,0 +1,23 @@
+header {
+    background-color: #333; /* Color de fondo del encabezado */
+    color: white; /* Color del texto en el encabezado */
+    padding: 10px; /* Espaciado interno del encabezado */
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex; /* Muestra los elementos de navegación en una fila */
+    justify-content: space-around; /* Distribuye los elementos de navegación horizontalmente */
+  }
+  
+  nav li {
+    margin: 0 10px; /* Espaciado entre elementos de navegación */
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white; /* Color del texto de los enlaces */
+  }
+  
+  
